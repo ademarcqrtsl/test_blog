@@ -1,12 +1,12 @@
-# High-Tech, High-Touch: Using Predictive AI to Prioritize Patient Care
+# Using Predictive AI to Prioritize Patient Care
 
 **By the Simple Team** *March 12, 2026*
 
 In the world of public health, we often talk about "limited resources" in terms of medicine, staff, or funding. But there is one resource that is arguably the most constrained: **the time of a healthcare worker.**
 
-In clinics across the regions Simple serves, a nurse or community health worker may have a list of 500 patients who are overdue for their hypertension or diabetes follow-up. Between managing active consultations and clinical duties, that worker might only have 30 minutes a day to make phone calls. If they call patients alphabetically, they might spend those 30 minutes reaching people who were already planning to come in, or numbers that are no longer active.
+In clinics across the regions Simple serves, a nurse or community health worker may have a list of 500 patients who are overdue for their hypertension or diabetes follow-up. Between managing active consultations and clinical duties, that worker might only have a limited amount of time to make phone calls. When using a natural patient call order, they might spend this time reaching people who were already planning to come in, or which will not come back anyway.
 
-We are changing that. By using **Predictive AI**, we are moving toward a model where those 30 minutes are spent calling the patients where the intervention will have the highest life-saving impact.
+We are changing that. By using **Predictive AI**, we are moving toward a model that limited time is spent calling the patients where the intervention will have the highest life-saving impact.
 
 ---
 
