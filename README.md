@@ -31,7 +31,7 @@ We utilize a **Supervised Learning** approach. We compile a dataset consisting o
     * **20% Test Set:** This "hold-out" data is used to evaluate the model's accuracy on unseen patients.
 * **Algorithm Selection:** We employ ensemble methods like **XGBoost** or **Random Forest**. These models are excellent at handling tabular clinical data and capturing non-linear relationships. TODO: rewrite this
 
-#### What exactly are we predicting?
+### 3. What exactly are we predicting?
 The model doesn't just give a single "score." We train it to calculate **three distinct indicators** that help us understand the patient's likely behavior:
 1. **Propensity to miss the next visit:** Identifying patients at high risk of becoming overdue before it even happens.
 2. **Propensity to come back "naturally":** Identifying patients who may be late but typically return on their own without intervention.
