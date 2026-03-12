@@ -49,13 +49,14 @@ Finally, we re-order the "Overdue Patient Line List" in the Simple app. Instead 
 ![Test Image 1](calls_efficiency.png
 )
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
 When outreach is not prioritized, the "cost" is measured in wasted clinical hours and missed opportunities for intervention. Our data reveals two major areas of inefficiency in traditional, unranked calling lists:
 
-* **The "Unreachable" Group:** Healthcare workers often spend significant time calling patients in the lowest deciles who have an extremely low probability of returning regardless of the nudge. For instance, patients in the bottom 10% (Decile 10) show an actual return rate of only **19%** even when called—and in some datasets, as low as **0%**.
-* 
-* **The "Highly Motivated" Group:** Conversely, calling patients in the top deciles yields only marginal gains. Patients in Decile 1 already have a **67.4%** "natural" return rate without a call; reaching out to them only bumps that to **76.68%**, a mere **9.28 percentage point** improvement.
+* **The "Unreachable" Group:** Healthcare workers often spend significant time calling patients in the lowest deciles who have an extremely low probability of returning regardless of the nudge. Calling 100 patients from  this group will statistically result in only 3 more patients returning to care.
+* **The "Highly Motivated" Group:** Conversely, calling patients in the top deciles yields only marginal gains. Patients in Decile 1 already have a **67.4%** "natural" return rate without a call; Calling 100 patients from  this group will statistically result in 9 more patients returning to care.
+* **The "Middle" Group:**: 
+
+
+
 
 **The Strategy:** By identifying these "naturally returning" and "unlikely to return" groups, we can redirect nurse efforts toward the "persuadable" middle deciles, where a single phone call can most drastically shift the odds in favor of the patient’s health.
 
