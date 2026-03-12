@@ -55,7 +55,12 @@ When outreach is not prioritized, the "cost" is measured in wasted clinical hour
 * **The "Highly Motivated" Group:** Conversely, calling patients in the top deciles yields only marginal gains. Patients in Decile 1 already have a **67.4%** "natural" return rate without a call; Calling 100 patients from  this group will statistically result in 9 more patients returning to care.
 * **The "Middle" Group:** Between these two groups, the gain of calling patients is higher, with up to 20 returning patients for 100 calls in group 8.
 
+
+**The statistical efficiency of a call varties by a factor of 5.8 depending on the score of the patient we are calling.
+**
+
 **The Strategy:** By identifying these "naturally returning" and "unlikely to return" groups, we can redirect nurse efforts toward the "persuadable" middle deciles, where a single phone call can most drastically shift the odds in favor of the patient’s health.
+ 
 
 More powerfull algorythms taking the patient Risk score can also be implemented.
 
