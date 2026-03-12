@@ -48,6 +48,8 @@ Finally, we re-order the "Overdue Patient Line List" in the Simple app. Instead 
 
 ![Test Image 1](Screenshot 2026-03-12 at 14.57.11.png)
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 When outreach is not prioritized, the "cost" is measured in wasted clinical hours and missed opportunities for intervention. Our data reveals two major areas of inefficiency in traditional, unranked calling lists:
 
 * **The "Unreachable" Group:** Healthcare workers often spend significant time calling patients in the lowest deciles who have an extremely low probability of returning regardless of the nudge. For instance, patients in the bottom 10% (Decile 10) show an actual return rate of only **19%** even when called—and in some datasets, as low as **0%**.
