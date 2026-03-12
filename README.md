@@ -46,7 +46,8 @@ Finally, we re-order the "Overdue Patient Line List" in the Simple app. Instead 
 ---
 ## 3. The Cost of Inefficiency
 
-![Test Image 1](./Screenshot 2026-03-12 at 14.57.11.png)
+![Test Image 1](calls_efficiency.png
+)
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
