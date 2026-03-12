@@ -43,12 +43,22 @@ Once the model is validated, we run it against the entire active database. Every
 
 Finally, we re-order the "Overdue Patient Line List" in the Simple app. Instead of a static or chronological list, the healthcare worker sees the patients at the top who have a high clinical risk and a high **propensity to come back if called**.
 
+---
+## 3. The Cost of Inefficiency
+
+When outreach is not prioritized, the "cost" is measured in wasted clinical hours and missed opportunities for intervention. Our data reveals two major areas of inefficiency in traditional, unranked calling lists:
+
+* **The "Unreachable" Group:** Healthcare workers often spend significant time calling patients in the lowest deciles who have an extremely low probability of returning regardless of the nudge. For instance, patients in the bottom 10% (Decile 10) show an actual return rate of only **19%** even when called—and in some datasets, as low as **0%**.
+* 
+* **The "Highly Motivated" Group:** Conversely, calling patients in the top deciles yields only marginal gains. Patients in Decile 1 already have a **67.4%** "natural" return rate without a call; reaching out to them only bumps that to **76.68%**, a mere **9.28 percentage point** improvement.
+
+**The Strategy:** By identifying these "naturally returning" and "unlikely to return" groups, we can redirect nurse efforts toward the "persuadable" middle deciles, where a single phone call can most drastically shift the odds in favor of the patient’s health.
 
 
 ---
 
 ## The Human Impact
-By optimizing the "call list," we reduce worker fatigue and increase clinical efficiency. More importantly, we ensure that the "lost to follow-up" patients—those most at risk of a heart attack or stroke—are brought back into the safety of the clinical system.
+By optimizing the "call list," we reduce worker fatigue and increase clinical efficiency. More importantly, we ensure that we bring as many "lost to follow-up" patients back into the safety of the clinical system.
 
 Predictive AI in Simple isn't about "big data" for the sake of it; it's about making sure that every minute a nurse spends on the phone is a minute that saves a life.
 
