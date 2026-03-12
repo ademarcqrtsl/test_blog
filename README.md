@@ -56,8 +56,7 @@ When outreach is not prioritized, the "cost" is measured in wasted clinical hour
 * **The "Middle" Group:** Between these two groups, the gain of calling patients is higher, with up to 20 returning patients for 100 calls in group 8.
 
 
-**The statistical efficiency of a call varties by a factor of 5.8 depending on the score of the patient we are calling.
-**
+**The statistical efficiency of a call varties by a factor of 5.8 depending on the score of the patient we are calling.**
 
 **The Strategy:** By identifying these "naturally returning" and "unlikely to return" groups, we can redirect nurse efforts toward the "persuadable" middle deciles, where a single phone call can most drastically shift the odds in favor of the patient’s health.
  
