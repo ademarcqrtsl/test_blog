@@ -37,8 +37,8 @@ The model doesn't just give a single "score." We train it to calculate **three d
 2. **Propensity to come back "naturally":** Identifying patients who may be late but typically return on their own without intervention.
 3. **Propensity to come back if called:** This is the "sweet spot" for efficiency—identifying patients who are currently overdue but are highly likely to return specifically because of a phone call nudge.
 
-
-### 3. Scoring and the "Ranked" Line List
+---
+## 2. Scoring and the "Ranked" Line List
 Once the model is validated, we run it against the entire active database. Every overdue patient receives a **probability score** based on these indicators. 
 
 Finally, we re-order the "Overdue Patient Line List" in the Simple app. Instead of a static or chronological list, the healthcare worker sees the patients at the top who have a high clinical risk and a high **propensity to come back if called**.
