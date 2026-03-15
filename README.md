@@ -2,7 +2,7 @@
 
 **By the Simple Team** *March 12, 2026*
 
-In the world of public health, we often talk about "limited resources" in terms of medicine, staff, or funding. But there is one resource that is arguably the most constrained: **the time of a healthcare worker.**
+In the world of public health, we often talk about "limited resources" in terms of medicine, trained staff, or funding. But there is one resource that is arguably the most constrained: **the time of a healthcare worker.**
 
 In clinics across the regions Simple serves, a nurse or community health worker may have a list of hundreds of patients who are overdue for their hypertension or diabetes follow-up. Between managing active consultations and clinical duties, that worker might only be able to contact 10% to 20% of these patients. When using a natural patient call order, they might spend this time reaching people who were already planning to come in, or which will not come back anyway.
 
